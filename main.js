@@ -17,10 +17,6 @@ for (let i = 0; i < 100; i++) {
     myArray.push(400);
   }
 }
-// for (let i = 0; i < 100; i++) {
-
-// let rand = Math.floor(Math.random() * 3);
-// }
 
 // Main Program Loop
 requestAnimationFrame(draw);
